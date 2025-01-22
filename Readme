@@ -1,4 +1,0 @@
-Run the following code by using:
-- compile and execute matrixgen.c
-- make 
-- ./main <numberOfThreads>
